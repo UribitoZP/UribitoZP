@@ -40,12 +40,10 @@ Desarrollador enfocado en mobile y frontend, con pasión por construir interface
 
 ## Proyectos
 
-> Próximamente — estate atento.
-
 <!-- Puedes agregar tus proyectos así:
 
-### [Nombre del proyecto](https://github.com/UribitoZP/repo)
-Descripción breve de lo que hace y qué tecnologías usaste.
+### [Sena-Soft](https://github.com/UribitoZP/Sena-soft)
+Proyecto formativo de Gestion Hotelera, Ddirigido a la empresa "Hotel Santa Ana"
 
 -->
 
@@ -65,6 +63,8 @@ Descripción breve de lo que hace y qué tecnologías usaste.
 
 <div align="center">
 
-*Gracias por pasarte por acá* ✦
+*Gracias por pasarte por acá 🤓* ✦
+
+![descripción](https://tenor.com/dfhQDoCzR6x.gif)
 
 </div>
