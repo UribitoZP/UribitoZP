@@ -40,22 +40,19 @@ Desarrollador enfocado en mobile y frontend, con pasión por construir interface
 
 ## Proyectos
 
-<!-- Puedes agregar tus proyectos así:
+
 
 ### [Sena-Soft](https://github.com/UribitoZP/Sena-soft)
 Proyecto formativo de Gestion Hotelera, Ddirigido a la empresa "Hotel Santa Ana"
 
--->
 
 ---
 
 ## Estadísticas de GitHub
 
 <div align="center">
-
-![UribitoZP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UribitoZP&show_icons=true&theme=graywhite&hide_border=true&hide=stars&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UribitoZP&layout=compact&theme=graywhite&hide_border=true)
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=UribitoZP&locale=es)](https://git.io/streak-stats)
 
 </div>
 
@@ -64,7 +61,5 @@ Proyecto formativo de Gestion Hotelera, Ddirigido a la empresa "Hotel Santa Ana"
 <div align="center">
 
 *Gracias por pasarte por acá 🤓* ✦
-
-![descripción](https://tenor.com/dfhQDoCzR6x.gif)
 
 </div>
